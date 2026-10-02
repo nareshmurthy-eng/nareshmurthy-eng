@@ -1,148 +1,175 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Naresh Murthy. Robotics to Space Systems. M.Sc. Space Science and Technology, University of Bremen.">
 
-  <p>
-    <b>M.Sc. Space Science &amp; Technology · University of Bremen</b><br>
-    B.Tech Robotics &amp; Automation · Lovely Professional University<br>
-    Space · Robotics · Software · Control
-  </p>
+<img src="./assets/hero.svg" width="100%" alt="Naresh Murthy. Robotics to Space Systems. M.Sc. Space Science and Technology, University of Bremen. B.Tech Robotics and Automation.">
 
-  <p>
-    <a href="#featured-projects">Projects</a> ·
-    <a href="#engineering-journey">Journey</a> ·
-    <a href="#technical-profile">Technical profile</a> ·
-    <a href="#industrial-robotics-exposure">Industrial robotics</a> ·
-    <a href="#international-experience">International</a> ·
-    <a href="#contact">Contact</a>
-  </p>
+<p>
+<a href="#projects"><img src="./assets/nav/projects.svg" alt="Projects" height="38"></a>&nbsp;
+<a href="#skills"><img src="./assets/nav/skills.svg" alt="Skills" height="38"></a>&nbsp;
+<a href="#journey"><img src="./assets/nav/journey.svg" alt="Journey" height="38"></a>&nbsp;
+<a href="#international"><img src="./assets/nav/international.svg" alt="International" height="38"></a>&nbsp;
+<a href="#roadmap"><img src="./assets/nav/roadmap.svg" alt="Roadmap" height="38"></a>&nbsp;
+<a href="#contact"><img src="./assets/nav/contact.svg" alt="Contact" height="38"></a>
+</p>
+
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="">
+<a id="mission"></a>
+<img src="./assets/banners/mission.svg" width="100%" alt="Mission">
 
-## Mission
+I started in robotics and I'm moving toward space systems. My M.Sc. at the University of Bremen points at sensing, processing and communication for space-related systems, and the work I want to do is robotic, autonomous and intelligent systems that operate where humans can't easily go.
 
-I started with robotics and I'm moving toward space systems. My Master's direction at Bremen is sensing, processing and communication for space-related systems, and my goal is to work on robotic, autonomous and intelligent systems that operate in space.
+Python, control theory, MATLAB/Simulink and ROS2 are the bridge between those two fields. I'm building them deliberately on top of hands-on robotics work I've already done: a robotic arm, a pick-and-place robot, a quadcopter, an AGV prototype, a satellite project and industrial robot training.
 
-I'm building the software and control foundations that connect the two fields. My robotics work was done before this stage, and I'm adding Python, control theory, MATLAB/Simulink, ROS2 and computer vision on top of it.
-
-| Focus | Role in my profile |
-|---|---|
-| **Space** | Where I'm heading: satellite systems, sensing, processing and communication. |
-| **Robotics** | Where I'm coming from: arms, pick-and-place, drones, mobile robots, industrial robot exposure. |
-| **Software & control** | The bridge between them: Python, control systems, MATLAB/Simulink, ROS2. |
-| **International experience** | Audit and governance work across many countries, alongside my engineering path. |
+<img src="./assets/identity.svg" width="100%" alt="Identity map. Robotics, then Software and Control, then Space, supported by international experience in governance and audit across Europe and the Americas.">
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## Engineering journey
+<a id="projects"></a>
+<img src="./assets/banners/projects.svg" width="100%" alt="Featured projects">
 
-| Stage | What happened |
-|---|---|
-| **School** | Took part in a school-level project/competition on NASA's Space Settlement theme. This was student participation only, with no NASA employment or affiliation. `[PLACEHOLDER: contest name, year, result]` |
-| **B.Tech, Robotics & Automation** | Built engineering projects across several areas: a satellite project (PicoSat), a robotic arm, a pick-and-place robot, a quadcopter, an AGV prototype, an RC car and more. See [Featured projects](#featured-projects). |
-| **Industrial training** | Robotics and automation training at DIFACTO Robotics and Automation, Bangalore. See [Industrial robotics exposure](#industrial-robotics-exposure). |
-| **Alongside** | International governance and audit work through AIESEC and the International Control Board. See [International experience](#international-experience). |
-| **Now** | M.Sc. Space Science & Technology at the University of Bremen. Building Python, control and robotics-software foundations. |
-| **Next** | Autonomous and intelligent space systems. |
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
-## Featured projects
-
-Projects are grouped by direction. Repositories and write-ups are being added as I document each one.
+Each project gets its own repository and write-up as I document it. Details marked `[PLACEHOLDER]` are being filled in.
 
 ### Space
 
-#### PicoSat
-- **Built:** `[PLACEHOLDER: one or two sentences on what the project did]`
-- **Why:** `[PLACEHOLDER]`
-- **Stack:** `[PLACEHOLDER: hardware and software actually used]`
-- **Concepts demonstrated:** `[PLACEHOLDER]`
-- **Status:** `[PLACEHOLDER: completed / prototype / archived]` · **Repo & docs:** *coming soon*
+<img src="./assets/projects/picosat.svg" width="100%" alt="PicoSat. Satellite project, the bridge between robotics and space technology.">
+
+<details>
+<summary><b>PicoSat: project details</b></summary>
+<ul>
+<li><b>Built:</b> <code>[PLACEHOLDER: one or two sentences on what the satellite project did]</code></li>
+<li><b>Why:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Stack:</b> <code>[PLACEHOLDER: hardware and software actually used]</code></li>
+<li><b>Concepts demonstrated:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Status:</b> <code>[PLACEHOLDER: completed / prototype / archived]</code> · <b>Repo and docs:</b> <i>coming soon</i></li>
+</ul>
+</details>
 
 ### Robotics and autonomous systems
 
-#### Robotic arm
-- **Built:** `[PLACEHOLDER]`
-- **Why:** `[PLACEHOLDER]`
-- **Stack:** `[PLACEHOLDER]`
-- **Concepts demonstrated:** `[PLACEHOLDER]`
-- **Status:** `[PLACEHOLDER]` · **Repo & docs:** *coming soon*
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/projects/robotic-arm.svg" width="100%" alt="Robotic arm. Built as a project, separate from industrial robots.">
+<details>
+<summary><b>Robotic arm: details</b></summary>
+<ul>
+<li><b>Built:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Why:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Stack:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Concepts:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Status:</b> <code>[PLACEHOLDER]</code> · <b>Repo:</b> <i>coming soon</i></li>
+</ul>
+</details>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/projects/pick-and-place.svg" width="100%" alt="Pick-and-place robot. Robotic manipulation and automation.">
+<details>
+<summary><b>Pick-and-place robot: details</b></summary>
+<ul>
+<li><b>Built:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Why:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Stack:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Concepts:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Status:</b> <code>[PLACEHOLDER]</code> · <b>Repo:</b> <i>coming soon</i></li>
+</ul>
+</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="./assets/projects/quadcopter.svg" width="100%" alt="Quadcopter drone. Drone engineering project.">
+<details>
+<summary><b>Quadcopter drone: details</b></summary>
+<ul>
+<li><b>Built:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Why:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Stack:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Concepts:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Status:</b> <code>[PLACEHOLDER]</code> · <b>Repo:</b> <i>coming soon</i></li>
+</ul>
+</details>
+</td>
+<td width="50%" valign="top">
+<img src="./assets/projects/agv.svg" width="100%" alt="AGV prototype. Automated guided vehicle prototype.">
+<details>
+<summary><b>AGV prototype: details</b></summary>
+<ul>
+<li><b>Built:</b> <code>[PLACEHOLDER: navigation or guidance method, if known]</code></li>
+<li><b>Why:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Stack:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Concepts:</b> <code>[PLACEHOLDER]</code></li>
+<li><b>Status:</b> <code>[PLACEHOLDER]</code> · <b>Repo:</b> <i>coming soon</i></li>
+</ul>
+</details>
+</td>
+</tr>
+</table>
 
-> This is a robotic arm I designed and built as a project. It is separate from the industrial FANUC and ABB robots described [below](#industrial-robotics-exposure).
+> The robotic arm above is a project I built. It is separate from the industrial FANUC and ABB robots I trained on, described [below](#industrial).
 
-#### Pick-and-place robot
-- **Built:** `[PLACEHOLDER]`
-- **Why:** `[PLACEHOLDER]`
-- **Stack:** `[PLACEHOLDER]`
-- **Concepts demonstrated:** `[PLACEHOLDER]`
-- **Status:** `[PLACEHOLDER]` · **Repo & docs:** *coming soon*
+### More prototypes
 
-#### Quadcopter drone
-- **Built:** `[PLACEHOLDER]`
-- **Why:** `[PLACEHOLDER]`
-- **Stack:** `[PLACEHOLDER]`
-- **Concepts demonstrated:** `[PLACEHOLDER]`
-- **Status:** `[PLACEHOLDER]` · **Repo & docs:** *coming soon*
-
-#### AGV prototype (automated guided vehicle)
-- **Built:** `[PLACEHOLDER: what navigation / guidance method it used, if known]`
-- **Why:** `[PLACEHOLDER]`
-- **Stack:** `[PLACEHOLDER]`
-- **Concepts demonstrated:** `[PLACEHOLDER]`
-- **Status:** `[PLACEHOLDER]` · **Repo & docs:** *coming soon*
-
-### Other prototypes
-
-| Project | Summary | Status |
-|---|---|---|
-| **Cosmo Cleanse Bot** | Robotics project. `[PLACEHOLDER: one line]` | `[PLACEHOLDER]` |
-| **RC car** | Remote-controlled vehicle covering practical electronics and robotics concepts. `[PLACEHOLDER: details]` | `[PLACEHOLDER]` |
-| **EasyBee prototype** | Engineering prototype. `[PLACEHOLDER: one line]` | `[PLACEHOLDER]` |
+<table>
+<tr>
+<td width="33%" valign="top">
+<img src="./assets/projects/cosmo-cleanse-bot.svg" width="100%" alt="Cosmo Cleanse Bot. Robotics project.">
+<sub><code>[PLACEHOLDER: one line on what it does]</code></sub>
+</td>
+<td width="33%" valign="top">
+<img src="./assets/projects/rc-car.svg" width="100%" alt="RC car. Remote-controlled vehicle.">
+<sub><code>[PLACEHOLDER: one line on what it does]</code></sub>
+</td>
+<td width="33%" valign="top">
+<img src="./assets/projects/easybee.svg" width="100%" alt="EasyBee prototype. Engineering prototype.">
+<sub><code>[PLACEHOLDER: one line on what it does]</code></sub>
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## Technical profile
+<a id="skills"></a>
+<img src="./assets/banners/skills.svg" width="100%" alt="Technical profile">
 
-I separate what I've used from what I'm still building, so the list stays accurate.
-
-| Level | Skills |
-|---|---|
-| **Hands-on experience** | Robotics and automation project building · industrial robot operation (FANUC, ABB, teach pendant) · pneumatics · PLC fundamentals · electronics and hardware prototyping |
-| **Currently building with** | Python · Git and GitHub · MATLAB |
-| **Currently learning** | Control systems · engineering mathematics · Simulink · ROS2 · OpenCV · data analysis |
-| **Direction** | Sensing and processing · communication technologies · robotics software · autonomous systems · space technologies |
+<img src="./assets/skills.svg" width="100%" alt="Skill orbit. Hands-on experience: robotics and automation projects, electronics prototyping, FANUC and ABB robot operation, teach pendant, pneumatics, PLC fundamentals. Currently building with: Python, Git and GitHub, MATLAB. Currently learning: control systems, engineering mathematics, Simulink, ROS2, OpenCV, data analysis. Future direction: sensing and processing, communication technologies, robotics software, autonomous systems, space technologies.">
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## Industrial robotics exposure
+<a id="journey"></a>
+<img src="./assets/banners/journey.svg" width="100%" alt="Engineering journey">
 
-Training with **DIFACTO Robotics and Automation, Bangalore, India** `[PLACEHOLDER: duration / dates / format]`
+<img src="./assets/journey.svg" width="100%" alt="Engineering journey. School project on the NASA Space Settlement theme, B.Tech Robotics and Automation, engineering projects, DIFACTO industrial robotics training, M.Sc. Space Science and Technology in Bremen, then autonomous and intelligent space systems.">
 
-- Industrial robotic arms: FANUC and ABB systems
-- Robot operation and control, including teach pendant interaction
-- Automation, pneumatics and PLC fundamentals
-
-This was practical training and exposure. It connects my Robotics & Automation degree with real industrial systems, and I don't present it as professional industrial robotics experience.
+<sub>The NASA Space Settlement entry was a school-level project/competition: student participation only, with no NASA employment, research or sponsorship. <code>[PLACEHOLDER: contest name, year, result]</code></sub>
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## International experience
+<a id="industrial"></a>
+<img src="./assets/banners/industrial.svg" width="100%" alt="Industrial robotics">
 
-Beyond engineering, I have worked in international governance and audit settings through **AIESEC** and its **International Control Board (ICB)**.
+<img src="./assets/industrial.svg" width="100%" alt="Industrial robotics training at DIFACTO Robotics and Automation, Bangalore: FANUC and ABB robots, teach pendant, automation, pneumatics, PLC fundamentals.">
 
-- **Role:** International Control Board Auditor `[PLACEHOLDER: exact title(s) and dates]`
-- **Scope:** audit and compliance work covering approximately 70 countries across Europe and the Americas `[PLACEHOLDER: confirm exact wording of the scope]`
-- **Collaboration:** work involving teams and responsibilities connected to India, Australia, Ethiopia, Norway, Finland and Germany
-- **Skills it built:** governance, compliance, accountability, cross-cultural collaboration and decision-making in different organizational environments
+This was practical training and hands-on exposure, not professional industrial robotics experience. It connects my Robotics & Automation degree to real industrial systems. `[PLACEHOLDER: duration, dates, training format]`
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+<a id="international"></a>
+<img src="./assets/banners/international.svg" width="100%" alt="International experience">
+
+<img src="./assets/international.svg" width="100%" alt="International experience. International Control Board auditor, audit scope of about 70 countries in Europe and the Americas, with work connected to India, Australia, Ethiopia, Norway, Finland and Germany.">
+
+- **Role:** International Control Board Auditor, AIESEC `[PLACEHOLDER: exact title(s) and dates]`
+- **Scope:** audit and compliance across approximately 70 countries in Europe and the Americas `[PLACEHOLDER: confirm exact wording of the scope]`
+- **Worked with:** teams and responsibilities connected to India, Australia, Ethiopia, Norway, Finland and Germany
 
 I'm an engineer first. This experience shapes how I work in international teams, which is what space and robotics projects usually involve.
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## Software foundations
+<a id="foundations"></a>
+<img src="./assets/banners/foundations.svg" width="100%" alt="Software foundations">
 
-I'm completing a structured **100 Days of Python** course, progress `[PLACEHOLDER: Day X / 100]`. It is deliberate groundwork for the robotics and control software I want to write, and stronger projects will replace these as they're completed.
+I'm completing a structured **100 Days of Python** course (progress: `[PLACEHOLDER: Day X / 100]`) as deliberate groundwork for robotics and control software. Stronger Python, ROS2 and control projects will replace these as they're finished.
 
 <details>
 <summary>Early projects from the course</summary>
@@ -151,22 +178,24 @@ Brand Name Generator · Tip Calculator · Treasure Island · Rock Paper Scissors
 
 </details>
 
-## Current focus
+<a id="roadmap"></a>
+<img src="./assets/banners/roadmap.svg" width="100%" alt="Roadmap">
 
-- [ ] Publish a write-up and documentation for PicoSat
-- [ ] Document the robotic arm and pick-and-place projects with photos and diagrams
-- [ ] Finish 100 Days of Python
-- [ ] Complete a first control-systems project in MATLAB/Simulink
-- [ ] Build a first ROS2 project
-- [ ] Build a first OpenCV project
+<img src="./assets/roadmap.svg" width="100%" alt="Roadmap. In progress: 100 Days of Python. Planned: PicoSat write-up, arm and pick-place documentation, a control project in MATLAB and Simulink, a first ROS2 project, a first OpenCV project.">
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## Contact
+<a id="contact"></a>
+<img src="./assets/banners/contact.svg" width="100%" alt="Contact">
 
-- GitHub: [@nareshmurthy-eng](https://github.com/nareshmurthy-eng)
-- LinkedIn: `[PLACEHOLDER: URL]`
-- Email: `[PLACEHOLDER: address]`
-- Location: Bremen, Germany
+<p>
+<a href="https://github.com/nareshmurthy-eng"><img src="./assets/buttons/github.svg" alt="GitHub" height="52"></a>&nbsp;
+<!-- TODO: replace # with your LinkedIn URL -->
+<a href="#contact"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" height="52"></a>&nbsp;
+<!-- TODO: replace # with mailto:your@email -->
+<a href="#contact"><img src="./assets/buttons/email.svg" alt="Email" height="52"></a>
+</p>
 
-<img src="./assets/footer.svg" width="100%" alt="Learn, build, break, understand, build better.">
+<sub><code>[PLACEHOLDER: LinkedIn URL and public email]</code> · Bremen, Germany</sub>
+
+<img src="./assets/footer.svg" width="100%" alt="Learn, build, break, understand, build better. Naresh Murthy, Robotics to Space Systems.">
